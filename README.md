@@ -1,1 +1,1 @@
-![Evan's GitHub stats](https://github-readme-stats.vercel.app/api?username=EvanEnev&show_icons=true&theme=radical)
+![Evan's GitHub stats](https://github-readme-stats.vercel.app/api?username=EvanEnev&show_icons=true&theme=gotham)
